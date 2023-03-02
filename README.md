@@ -1,5 +1,5 @@
 # Software
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNiIKDcrB_Zqk1EORI7AI_Ghp-M5PbSBch2kdd5R2dMzJGs8chDLDA9IziGv47avvpr3Q&usqp=CAU' width=200 height=200/>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNiIKDcrB_Zqk1EORI7AI_Ghp-M5PbSBch2kdd5R2dMzJGs8chDLDA9IziGv47avvpr3Q&usqp=CAU' width=500 height=500/>
 
 
 
